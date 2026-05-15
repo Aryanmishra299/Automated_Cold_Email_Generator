@@ -97,16 +97,16 @@ This project addresses these issues by:
 
 ## 🛠️ Tech Stack
 
- Layer ----------------------- Technology 
+ Layer ----------------------- Technology <BR>
 
- Programming ----------------- Python 
- Frontend -------------------- Streamlit 
- LLM Orchestration ----------- LangChain 
- AI Model -------------------- Groq LLM 
- Vector DB ------------------- ChromaDB 
- Web Scraping ---------------- BeautifulSoup 
- Data Processing ------------- Pandas 
- NLP ------------------------- Natural Language Processing 
+ Programming ----------------- Python <BR>
+ Frontend -------------------- Streamlit <BR>
+ LLM Orchestration ----------- LangChain <BR>
+ AI Model -------------------- Groq LLM <BR>
+ Vector DB ------------------- ChromaDB <BR>
+ Web Scraping ---------------- BeautifulSoup <BR> 
+ Data Processing ------------- Pandas <BR>
+ NLP ------------------------- Natural Language Processing<BR> 
 
 ---
 
